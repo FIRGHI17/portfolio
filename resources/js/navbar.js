@@ -24,8 +24,6 @@ window.addEventListener("scroll", () => {
 
 });
 
-const navbar = document.querySelector(".navbar-wrapper");
-
 window.addEventListener("scroll",()=>{
 
     if(window.scrollY>40){

@@ -81,6 +81,9 @@
             "php-http/discovery": true
         }
     },
-    "minimum-stability": "stable",
-    "prefer-stable": true
+
+    "paltform": {
+        "php": "8.3.0"
+    }
+
 }
